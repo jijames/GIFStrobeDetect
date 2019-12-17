@@ -9,7 +9,7 @@ that could be problematic for some people. It's a filter POC.
 
 This script is a bit of a rage-program based on the following tweet:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Developing an anti-strobe filter for GIFs and videos seems like it can’t be that hard. Maybe someone will release such a thing and Twitter will adopt it? <a href="https://t.co/V8KXa8gwb7">https://t.co/V8KXa8gwb7</a></p>&mdash; Matthew Green (@matthew_d_green) <a href="https://twitter.com/matthew_d_green/status/1206761811346939904?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Developing an anti-strobe filter for GIFs and videos seems like it can’t be that hard. Maybe someone will release such a thing and Twitter will adopt it? <a href="https://t.co/V8KXa8gwb7">https://t.co/V8KXa8gwb7</a></p>&mdash; Matthew Green (@matthew_d_green) <a href="https://twitter.com/matthew_d_green/status/1206761811346939904?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote>
 
 If anything, I hope it raises awareness about how vulnerable some groups are to physical attacks online.
 See the original article [here](https://www.nytimes.com/2019/12/16/us/strobe-attack-epilepsy.html).
